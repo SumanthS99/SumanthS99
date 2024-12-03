@@ -1,5 +1,5 @@
-* Data Science Master's Student with 3 years of software industry experience
-* Skilled in machine learning (supervised, unsupervised), and deep learning
+* Data Science Master's Student with 3 years of industry experience
+* Skilled in machine learning (supervised, unsupervised), and deep learning, data analysis
 * Currently focusing on projects involving predictive modeling, NLP
 * Experienced with Scikit-Learn, Pandas, TensorFlow, PowerBI
 <!---
